@@ -1,0 +1,1 @@
+g++ -o server muduo_server.cpp -lmuduonet -lmuduobase -lpthread 
