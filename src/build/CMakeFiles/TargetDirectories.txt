@@ -1,0 +1,3 @@
+/mnt/projects/myModuo/src/build/CMakeFiles/mymuduo.dir
+/mnt/projects/myModuo/src/build/CMakeFiles/edit_cache.dir
+/mnt/projects/myModuo/src/build/CMakeFiles/rebuild_cache.dir
